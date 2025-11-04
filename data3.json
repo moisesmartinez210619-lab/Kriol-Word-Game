@@ -4,5 +4,6 @@
   {"palabra":"How yo deh","significado":"¿Cómo estás?"},
   {"palabra":"Good maanin ","significado":"Buenos días"}
   {"palabra":"Good nait ","significado":"Buenas noches"}
-  
+  { "palabra": "Hello", "significado": "Hola" },
+  { "palabra": "Thank you", "significado": "Gracias" },
 ]
